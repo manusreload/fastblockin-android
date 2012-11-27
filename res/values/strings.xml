@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FastBlockinActivity!</string>
+    <string name="app_name">Fast Blockin</string>
+    <string name="null_str"></string>
+    <string name="score">Score</string>
+
+</resources>
